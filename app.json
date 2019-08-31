@@ -1,0 +1,17 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "description": "liff-sz",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "liff-sz",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
