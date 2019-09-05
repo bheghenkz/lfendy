@@ -5,12 +5,12 @@
   "buildpacks": [
 
   ],
-  "description": "liff-sz",
+  "description": "lfendy/",
   "env": {
   },
   "formation": {
   },
-  "name": "liff-sz",
+  "name": "lfendy/",
   "scripts": {
   },
   "stack": "heroku-18"
